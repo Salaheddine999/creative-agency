@@ -13,7 +13,7 @@ const Services = () => {
         <div className="rounded-t-[50px] text-left max-w-6xl bg-neutral-900 mx-4 mt-10 pt-10 px-5 sm:mx-auto">
             <div className="grid grid-cols-6 gap-6">
                 <div className="col-start-1 col-end-5">
-                    <h1 className="text-neutral-300 text-6xl sm:text-7xl font-bold pl-10">OUR SERVICES<span className="text-[#EF4823]">.</span></h1>
+                    <h1 className="text-neutral-300 text-5xl sm:text-7xl font-bold pl-10">OUR SERVICES<span className="text-[#EF4823]">.</span></h1>
                     <p className="text-neutral-500 pl-10 pt-6 tracking-wide">Every one of us loves something different. So, explore the world <br/> through the lens of our visual capabilitie, and find what you love</p>
                 </div>
                 <div className="col-end-7 col-span-2 text-center pt-16 justify-self-end space-y-1 sm:block hidden">
@@ -47,7 +47,7 @@ const Services = () => {
                                             UX/UI Design<span className="text-[#EF4823] font-bold">.</span>
                                         </div>
                                         <div className="col-end-7 col-span-2">
-                                            <button className="text-[#EF4823] text-5xl sm:text-7xl ml-2 sm:ml-3 -mt-[18px] hidden sm:block">&#129126;</button> 
+                                            <button className="text-[#EF4823] text-5xl sm:text-7xl ml-2 sm:ml-3 -mt-[18px] hidden sm:block">🡦</button> 
                                         </div>
                                     </>
                                     :
@@ -56,7 +56,7 @@ const Services = () => {
                                             UX/UI Design<span className="text-neutral-900 font-bold">.</span>
                                         </div>
                                         <div className="col-end-7 col-span-2">
-                                            <button className="text-neutral-200 text-5xl sm:text-7xl ml-2 sm:ml-3 -mt-[18px] hidden sm:block">&#129125;</button> 
+                                            <button className="text-neutral-200 text-5xl sm:text-7xl ml-2 sm:ml-3 -mt-[18px] hidden sm:block">🡥</button> 
                                         </div>
                                     </>
                                 }
@@ -101,7 +101,7 @@ const Services = () => {
                                             Brand Design<span className="text-[#EF4823] font-bold">.</span>
                                         </div>
                                         <div className="col-end-7 col-span-2">
-                                            <button className="text-[#EF4823] text-5xl sm:text-7xl ml-2 sm:ml-3 -mt-[18px] hidden sm:block">&#129126;</button> 
+                                            <button className="text-[#EF4823] text-5xl sm:text-7xl ml-2 sm:ml-3 -mt-[18px] hidden sm:block">🡦</button> 
                                         </div>
                                     </>
                                     :
@@ -110,7 +110,7 @@ const Services = () => {
                                             Brand Design<span className="text-neutral-900 font-bold">.</span>
                                         </div>
                                         <div className="col-end-7 col-span-2">
-                                            <button className="text-neutral-200 text-5xl sm:text-7xl ml-2 sm:ml-3 -mt-[18px] hidden sm:block">&#129125;</button> 
+                                            <button className="text-neutral-200 text-5xl sm:text-7xl ml-2 sm:ml-3 -mt-[18px] hidden sm:block">🡥</button> 
                                         </div>
                                     </>
                                 }
@@ -153,7 +153,7 @@ const Services = () => {
                                             Graphic Design<span className="text-[#EF4823] font-bold">.</span>
                                         </div>
                                         <div className="col-end-7 col-span-2">
-                                            <button className="text-[#EF4823] text-5xl sm:text-7xl ml-2 sm:ml-3 -mt-[18px] hidden sm:block">&#129126;</button> 
+                                            <button className="text-[#EF4823] text-5xl sm:text-7xl ml-2 sm:ml-3 -mt-[18px] hidden sm:block">🡦</button> 
                                         </div>
                                     </>
                                     :
@@ -162,7 +162,7 @@ const Services = () => {
                                             Graphic Design<span className="text-neutral-900 font-bold">.</span>
                                         </div>
                                         <div className="col-end-7 col-span-2">
-                                            <button className="text-neutral-200 text-5xl sm:text-7xl ml-2 sm:ml-3 -mt-[18px] hidden sm:block">&#129125;</button> 
+                                            <button className="text-neutral-200 text-5xl sm:text-7xl ml-2 sm:ml-3 -mt-[18px] hidden sm:block">🡥</button> 
                                         </div>
                                     </>
                                 }

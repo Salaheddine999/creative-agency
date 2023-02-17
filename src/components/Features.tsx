@@ -7,9 +7,9 @@ const Features = () => {
 
                 <div className="flex p-4 space-x-4 md:space-x-6 text-neutral-900 text-left justify-items-center">
                     <div className="flex flex-col align-left">
-                        <div className="w-14 h-14 sm:w-20 sm:h-20 border-2 border-[#EF4823] rounded-full"><span className="text-[#EF4823] text-5xl sm:text-6xl ml-2 sm:ml-3">&#129126;</span></div>
+                        <div className="w-14 h-14 sm:w-20 sm:h-20 border-2 border-[#EF4823] rounded-full"><span className="text-[#EF4823] text-5xl sm:text-6xl ml-2 sm:ml-3">🡦</span></div>
                         <p className="capitalize leading-tight font-semibold text-[15px] pt-11">We are a Creative agency, based in New York. Vision Every company is performing best online. Mission Helping businesses to find the perfect and most succesful strategy, to be online.</p>
-                        <img src={star} className="sm:h-8 w-9 relative top-14 left-[110px] sm:left-[150px]"/>
+                        <img src={star} className="h-6 w-7 sm:h-8 sm:w-9 relative sm:top-14 top-11 left-[80px] sm:left-[150px]"/>
                         <button className="text-left bg-[#EF4823] py-3 rounded-full mt-1 mr-52 sm:mr-0">
                             <p className="text-xl tracking-wide font-semibold text-stone-100 outline outline-offset-4 outline-1 rounded-full items-center sm:text-3xl px-4 mx-2 sm:px-7 sm:mx-4">Get<br/>Started!</p>
                         </button>
