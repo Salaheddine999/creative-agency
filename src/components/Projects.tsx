@@ -7,7 +7,7 @@ import prj5 from '../assets/prj5.png'
 
 const Projects = () => {
     return ( 
-        <div className="text-left max-w-6xl bg-neutral-900 mx-4 pt-10 px-5 sm:mx-auto rounded-b-[50px]">
+        <div id='projects' className="text-left max-w-6xl bg-neutral-900 mx-4 pt-10 px-5 sm:mx-auto rounded-b-[50px]">
             <div className="grid grid-cols-6 gap-6">
                 <div className="col-start-1 col-end-4">
                     <h1 className="text-[#EF4823] text-5xl sm:text-7xl font-bold pl-10">PROJECTS.</h1>

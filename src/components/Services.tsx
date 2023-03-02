@@ -10,7 +10,7 @@ const Services = () => {
     };
     
     return ( 
-        <div className="rounded-t-[50px] text-left max-w-6xl bg-neutral-900 mx-4 mt-10 pt-10 px-5 sm:mx-auto">
+        <div id='services' className="rounded-t-[50px] text-left max-w-6xl bg-neutral-900 mx-4 mt-10 pt-10 px-5 sm:mx-auto">
             <div className="grid grid-cols-6 gap-6">
                 <div className="col-start-1 col-end-5">
                     <h1 className="text-neutral-300 text-5xl sm:text-7xl font-bold pl-10">OUR SERVICES<span className="text-[#EF4823]">.</span></h1>

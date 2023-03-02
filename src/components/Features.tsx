@@ -2,7 +2,7 @@ import star from "../assets/star-4.svg"
 
 const Features = () => {
     return ( 
-        <section className="max-w-6xl mx-4 sm:mx-auto pt-10">
+        <section id='about' className="max-w-6xl mx-4 sm:mx-auto pt-10">
             <div className="grid grid-cols-1 gap-8 sm:grid-cols-4">
 
                 <div className="flex p-4 space-x-4 md:space-x-6 text-neutral-900 text-left justify-items-center">
