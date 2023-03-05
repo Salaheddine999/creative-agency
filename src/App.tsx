@@ -11,7 +11,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div className="App">
-      <Home className="bg-stone-100">
+      <Home className="bg-stone-100 overflow-hidden">
         <Navbar/>
         <Hero/>
         <Features/>
